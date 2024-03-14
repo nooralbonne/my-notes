@@ -9,8 +9,7 @@ Command: system that take input via text – we need terminal
 ( terminal? App that allow users and developer to use pc using
 command)
 Version control system: Software tool that helps to changes to files or codes for any collection
-of files over time.
-+ (its useful to track your history and see exactly what you did in the
+of files over time. and (its useful to track your history and see exactly what you did in the
 previous versions of your code).
 Git system: pure example of Version control system ( trackes changes
 of computer files and its common between developers to share source
