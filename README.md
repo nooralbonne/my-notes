@@ -1,9 +1,8 @@
 # my-notes
-## I am noor albonne
+## Hello, I'm [NOOR ALBONNE]
+__**A computer science graduate from Al-Balqa'a Applied University. I'm passionate about coding and interested in collaborative projects, and I'm excited to contribute to impactful projects. Let's connect and start creating something exceptional together!**__
 
-**Hello, I'm [NOOR ALBONNE], a computer science graduate from Al-Balqa'a Applied University. I'm passionate about coding and interested in collaborative projects, and I'm excited to contribute to impactful projects. Let's connect and start creating something exceptional together!**
-
-1. CLI: command line interface ++ 
+1. CLI: command line interface 
 2. GUI: graphical line interface
 3. Interface: system that allow users to interact or communicate with pc
 4. Command: system that take input via text – we need terminal
