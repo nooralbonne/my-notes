@@ -1,6 +1,6 @@
 # my-notes
 ## Hello, I'm [NOOR ALBONNE]
-__**A computer science graduate from Al-Balqa'a Applied University. I'm passionate about coding and interested in collaborative projects, and I'm excited to contribute to impactful projects. Let's connect and start creating something exceptional together!**__
+__** I'm passionate about coding and interested in collaborative projects, and I'm excited to contribute to impactful projects. Let's connect and start creating something exceptional together!**__
 
 1. CLI: command line interface 
 2. GUI: graphical line interface
